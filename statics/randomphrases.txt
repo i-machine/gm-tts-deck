@@ -1,0 +1,473 @@
+tag=oh no
+Looks like I picked the wrong week to quit {taking drugs}
+It's all gone {Pete Tong}
+This is actually very serious
+There is one more thing. We're also out of coffee
+but at least I have a husband
+oh eeyarr{comma} kidder
+Look out. Kidders in road
+Okay, who's responsible?
+We're going to need a bigger boat
+It's a sad sad situation
+
+tag=madness
+Surely you can't be serious
+oh eeyarr{comma} kidder
+kidder{comma} please
+Stupid. Just stupid
+Madness. They call it madness
+Insane in the membrane
+
+tag=super x 1
+super
+smashing
+great
+safe
+cushty
+sorted
+laughing
+
+tag=super x 3
+{super x 1} {super x 1} {super x 1}
+
+tag=super
+{super x 1}
+{super x 3}
+goody gumdrops
+poggers
+wonderful
+vunderbar
+groovy
+
+tag=sorted
+{super}
+{super x 1}{comma} kidder
+it's safe for kidders
+
+tag=i will win
+come and have a go if you think you're hard enough
+you're going home in a saint john's ambulance
+{threat}
+
+tag=i win
+Don't kid a kidder{comma} kidder
+You've got to know when to hold them
+The foot's on the other hand now
+Feed him to the pigs{comma} Errol
+This is how we do it
+I came top out of us
+get fucked, {twat}
+{lol} i win
+{lol} i won
+
+tag=let's go
+We have clearance{comma} Clarence
+I just want to tell you both good luck, we're all counting on you
+Wibbly wobbly woo. You knows what to do
+Let's get ready ready Let's get ready ready Let's get ready to rumble
+you know what the music means
+
+tag=song lyrics
+Islands in the stream. That is what we are
+You've got to know when to hold them
+I've been to paradise but I've never been to me
+I would do anything for love. But I won't do that
+We've only just begun
+I can't stop these dancing feet
+I believe I can fly
+I feel it in my fingers
+This is how we do it
+I want to know what love is
+It's not unusual
+Madness. They call it madness
+Breaking the law. Breaking the law
+Take it{comma} to the limit
+Highway to the danger zone
+r e s p e c t.  find out what it means to me
+tell me what's the word. the word up
+Lend me some sugar. I am your neighbour
+Shake it like a Polaroid picture
+I'll take your brain to another dimension
+Pay close attention
+There's no limit
+Techno techno techno techno
+I'm a fire starter. Twisted fire starter
+Right about now. The funk soul brother
+I like to move it move it
+What's your flavour. Tell me what's your flavour
+Pump up the jam. Pump it up
+Stop, collaborate and listen
+Check out the hook while my DJ revolves it
+Wibbly wobbly woo. You knows what to do
+Let's get ready ready Let's get ready ready Let's get ready to rumble
+Insane in the membrane
+It's a sad sad situation
+I feel it in my fingers
+I can't fight this feeling any more
+I'm hooked on a feeling
+
+tag=movie quotes
+Right down to the ground
+We have clearance{comma} Clarence
+What's our vector Victor
+There is one more thing. We're also out of coffee
+I just want to tell you both good luck, we're all counting on you
+Roger{comma} Roger
+You can't handle the truth
+The foot's on the other hand now
+but at least I have a husband
+Feed him to the pigs{comma} Errol
+Looks like I picked the wrong week to quit {taking drugs}
+Jim never has a second cup of coffee at home
+We're going to need a bigger boat
+Give me Ham on 5 and hold the Mayo
+Have you ever been in a Turkish prison?
+
+tag=young ones quotes
+Don't think you've got authority
+Don't blame me, I didn't cook it
+A package from the Transval. How strange
+Excuse me. Do you dig graves?
+Okay, who's responsible?
+
+tag=kidder
+Kidder
+Kidder kidder kidder kidder kidder kidder
+oh eeyarr{comma} kidder
+oh eigh{comma} kidder
+kidder{comma} please
+Don't kid a kidder{comma} kidder
+safe for kidders
+it's safe for kidders
+Look out. Kidders in road
+
+tag=funny singers
+Billy ocean colour scene
+Lionel rich tea
+Doctor All bran
+
+tag=Pete Tong
+Pete Tong
+Pete Turton
+Fred West
+
+tag=drugs
+heroin
+crack
+glue
+
+tag=taking drugs
+snorting {drugs}
+injecting {drugs}
+smoking {drugs}
+
+tag=twat
+twat
+cunt
+gobshite
+bellend
+
+tag=what a twat
+what a {twat}
+what a {twat}
+what {an utter} {twat}
+what a little {twat}
+
+tag=you twat
+you {twat}
+you {twat}
+you {utter} {twat}
+you little {twat}
+
+tag=utter
+utter
+total
+complete
+total and utter
+complete and utter
+
+tag=an utter
+an utter
+a total
+a complete
+a total and utter
+a complete and utter
+
+tag=angry
+angry
+demented
+deranged
+insane
+
+tag=stupid
+stupid
+dumb
+braindead
+moronic
+vapid
+silly
+
+tag=stupid twat
+{stupid} {twat}
+{stupid} little {twat}
+
+tag=angry twat
+{angry} {twat}
+{angry} little {twat}
+
+tag=feeling
+I feel it in my fingers
+I can't fight this feeling any more
+I'm hooked on a feeling
+
+tag=strange
+Jim never has a second cup of coffee at home
+A package from the Transval. How strange
+It's not unusual
+
+tag=know
+know
+get
+dig
+see
+
+tag=know what i mean
+do you {know} what i mean
+do you {know} what i am saying
+do you {know} what i am talking about
+do you {know} where i am coming from
+do you catch my drift
+do you dig
+
+tag=i know what you mean
+I {know} what you mean
+I {know} what you are saying
+I {know} what you are talking about
+I {know} where you are coming from
+I catch your drift
+I dig
+
+tag=worm
+worm
+maggot
+insect
+slug
+
+tag=lol
+lol
+lolol
+lololol
+lolololol
+L.O.L
+L.O.L.O.L
+ha ha
+ha ha ha
+ha ha ha ha
+ha ha ha ha ha
+ha ha ha ha ha ha
+
+tag=make like a
+make like a {mlabas1} and {mlabas2}
+make like a {mlabas1} and {fuck off}
+tag=mlabas1
+banana
+bee
+tree
+tag=mlabas2
+split
+buzz off
+leave
+
+tag=yes
+yes
+yep
+Roger{comma} Roger
+roger
+affirmative
+
+tag=no
+no
+nope
+negative
+no way
+
+tag=unknown
+How am I supposed to know that
+I don't know. I just don't know.
+Who knows
+God knows
+Maybe, Maybe not
+
+tag=yes/no
+{yes}
+{no}
+
+tag=yes/no/unknown
+{yes}
+{no}
+{unknown}
+
+tag=ok
+ok
+okey dokey
+
+tag=i swear to god
+i swear to god
+as god is my witness
+
+tag=god help me
+god help me
+for the love of god
+for god's sake
+so help me god
+jesus wept
+
+tag=seriously
+seriously
+absolutely
+totally
+
+tag=I will 1
+I will
+I am going to
+
+tag=I will 2
+{I will 1}
+{I will 1}
+{I will 1} {seriously}
+
+tag=I will
+{I will 2}
+{I will 2}
+{i swear to god} {I will 2}
+
+tag=threat
+{i will} {threaten you}
+
+tag=threaten you
+{fuck you up}
+{rip out your body part and shove down your body orifice}
+{rip out your body part}
+make you eat your own {body part}
+make you disappear {down your own body orifice}
+
+tag=body part
+{body part singular}
+{body part plural}
+fucking {body part singular}
+fucking {body part plural}
+
+tag=rip out
+rip out
+tear out
+tear off
+
+tag=rip out your body part
+{rip out} your {body part}
+
+tag=rip out your body part and shove down your body orifice
+{rip out} your {body part singular} and shove it {down your body orifice}
+{rip out} your {body part plural} and shove them {down your body orifice}
+{rip out} your {body part singular} and piss {down your body orifice}
+{rip out} your {body part singular} and shit {down your body orifice}
+
+tag=down your body orifice
+down your {body orifice}
+up your {body orifice}
+down your fucking {body orifice}
+up your fucking {body orifice}
+
+tag=down your own body orifice
+down your own {body orifice}
+up your own {body orifice}
+down your own fucking {body orifice}
+up your own fucking {body orifice}
+
+tag=fuck you up
+fuck you up
+destroy you
+finish you
+crush you
+fucking {fuck you up}
+
+tag=body part singular
+head
+nose
+{penis}
+face
+
+tag=body part plural
+eye balls
+{balls}
+kneecaps
+
+tag=body orifice
+brain hole
+ear holes
+nostrils
+throat
+bowels
+{anus}
+{mouth}
+
+tag=anus
+anus
+bum hole
+arse hole
+
+tag=penis
+penis
+pecker
+knob
+cock
+
+
+tag=balls
+balls
+testicles
+goolies
+family jewels
+bollocks
+
+tag=shut up
+shut up
+shut the fuck up
+shut your {mouth}
+stop talking
+
+tag=mouth
+mouth
+mouth hole
+cake hole
+face
+fucking {mouth}
+
+tag=you need to
+you need to
+you {seriously} need to
+i need you to
+you had better
+
+tag=right now
+right now
+this instant
+right this instant
+
+tag=shut up +
+{you need to} {shut up}
+{shut up} {right now}
+{you need to} {shut up} {right now}
+
+tag=fuck off
+fuck off
+fuck off
+fuck off
+get the fuck out of here
+get the fuck out of here
+get the fuck out of my sight
+{make like a}
+
+tag=fuck off +
+{you need to} {fuck off}
+{fuck off} {right now}
+{you need to} {fuck off} {right now}
